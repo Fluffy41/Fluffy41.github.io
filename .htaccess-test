@@ -1,0 +1,4 @@
+AuthName "Test"
+AuthType Basic
+AuthUserFile .htpasswd-test
+Require valid-user
