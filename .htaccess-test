@@ -1,4 +1,4 @@
 AuthName "Test"
 AuthType Basic
-AuthUserFile .htpasswd-test
+AuthUserFile Fluffy41.github.io/.htpasswd-test
 Require valid-user
